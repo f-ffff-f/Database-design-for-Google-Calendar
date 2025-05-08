@@ -1,2 +1,6 @@
 # Database-design-for-Google-Calendar
-Full-stack Google Calendar clone
+This project references this post.
+
+https://minimal-modeling.kit.com/posts
+
+**WIP**
